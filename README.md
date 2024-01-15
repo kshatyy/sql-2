@@ -52,10 +52,4 @@
 
 ![Скриншот-1](https://github.com/kshatyy/sql-2/blob/main/img/5-1.png)
 
-### Задание 6
-
-Скриншот-1 к заданию 6:
-
-![Скриншот-1](https://github.com/kshatyy/sql-2/blob/main/img/6-1.png)
-
 
