@@ -26,7 +26,7 @@
 
 Скриншот-1 к заданию 1:
 
-![Скриншот-1](https://github.com/kshatyy/sql-2/blob/main/img/1-1.png)
+![Скриншот-1](https://github.com/kshatyy/sql-2/blob/main/img/1-1new.png)
 
 ### Задание 2
 
